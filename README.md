@@ -2,6 +2,7 @@
 
 # Results :
 ![alt text](https://github.com/Kvasir8/Python-machine-learning/blob/master/Results.JPG?raw=true)
+
 special thanks to prof. Won in Chungnam National University
 
 # What you need in python : 

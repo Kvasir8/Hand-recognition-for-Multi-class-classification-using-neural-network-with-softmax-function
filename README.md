@@ -16,8 +16,11 @@ Since image recognition using pythonn and openCV, which allows you to identify w
 
 # how to use : 
 Type the following actions you want to try when you execute the main file, which is 'Custom_MCC_NN_Softmax.py'
+
 -'c' for default webcam with openCV recognition
+
 -'i' for specific file for classification on absolute file location
+
 -'k' for K-means for classification (incompleted)
 
 # You may find more detail information about this code for description from PPT attachment.

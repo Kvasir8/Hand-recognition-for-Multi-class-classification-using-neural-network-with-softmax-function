@@ -17,7 +17,7 @@ Since image recognition using pythonn and openCV, which allows you to identify w
 # how to use : 
 Type the following actions you want to try when you execute the main file, which is 'Custom_MCC_NN_Softmax.py'
 
--'c' for default webcam with openCV recognition
+-'c' for openCV recognition with default webcam on your PC
 
 -'i' for specific file for classification on absolute file location
 

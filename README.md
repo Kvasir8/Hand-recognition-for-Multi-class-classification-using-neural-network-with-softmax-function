@@ -1,5 +1,14 @@
-# Results :
-![alt text](https://github.com/Kvasir8/Python-machine-learning/blob/master/Results.JPG?raw=true)
+# Overview :
+![alt text](https://github.com/Kvasir8/Hand-recognition-for-Multi-class-classification-using-neural-network-with-softmax-function/blob/master/Overview.JPG)
+
+# Purpose :
+![alt text](https://github.com/Kvasir8/Hand-recognition-for-Multi-class-classification-using-neural-network-with-softmax-function/blob/master/Purpose.JPG)
+
+# Structure :
+![alt text](https://github.com/Kvasir8/Hand-recognition-for-Multi-class-classification-using-neural-network-with-softmax-function/blob/master/Structure.JPG)
+
+# Result :
+![alt text](https://github.com/Kvasir8/Hand-recognition-for-Multi-class-classification-using-neural-network-with-softmax-function/blob/master/Result.JPG)
 
 special thanks to prof. Won in Chungnam National University
 

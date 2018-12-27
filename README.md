@@ -1,5 +1,6 @@
 # Overview :
 ![alt text](https://github.com/Kvasir8/Hand-recognition-for-Multi-class-classification-using-neural-network-with-softmax-function/blob/master/Overview.JPG)
+![alt text](https://github.com/Kvasir8/Hand-recognition-for-Multi-class-classification-using-neural-network-with-softmax-function/blob/master/Dataset%20preview.JPG)
 
 special thanks to prof. Won in Chungnam National University
 
